@@ -76,6 +76,13 @@ img{vertical-align: top;}
     align-items: center;
 }
 
+#nav_bottom button{
+    background-color: transparent;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 14px;
+}
+
 #nav_bottom a{
     font-family: 'Montserrat', sans-serif;
     color: white;
@@ -92,6 +99,18 @@ img{vertical-align: top;}
 
 #border{
     border: 1px solid white;
+}
+
+.welcome_description{
+    display: flex;
+    justify-content: center;
+}
+
+#login_name{
+    align-self: center;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 40px;
 }
 
 .button_main{
@@ -256,3 +275,4 @@ img{vertical-align: top;}
     justify-content: space-between;
 
 }
+
