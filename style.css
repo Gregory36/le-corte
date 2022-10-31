@@ -207,7 +207,7 @@ img{vertical-align: top;}
 
 #gray_line{
     margin-top: 35px;
-    width: 160px;
+    width: 300px;
     border-top: 1px solid #282828;
 }
 
@@ -227,12 +227,13 @@ img{vertical-align: top;}
 
 .stroke h3{
     margin: 20px;
-
 }
 
 #diff_div h2{
-    margin-top: 20px;
-    margin-bottom: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    /* margin-top: 20px;
+    margin-bottom: 5px; */
 }
 
 #diff_div{
@@ -242,7 +243,7 @@ img{vertical-align: top;}
 }
 
 #id_for_bottom_border{
-    border-bottom: 1px solid #282828;
+    /* border-bottom: 1px solid #282828; */
 }
 
 #p{
