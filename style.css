@@ -242,10 +242,6 @@ img{vertical-align: top;}
     border-left: 1px solid #282828;
 }
 
-#id_for_bottom_border{
-    /* border-bottom: 1px solid #282828; */
-}
-
 #p{
     margin-top: 35px;
 }
@@ -277,3 +273,26 @@ img{vertical-align: top;}
 
 }
 
+#enter{
+    background-color: rgb(57, 57, 255);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    transition-duration: 0.5s;
+}
+
+#registration{
+    background-color: rgb(38, 184, 38);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    transition-duration: 0.5s;
+}
+
+#registration:hover{
+    background-color: rgb(24, 116, 24);
+}
+
+#enter:hover{
+    background-color: rgb(29, 29, 184);
+}
